@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	width: 1280px;
+	height: 5120px;
+	background-color: black;
+	margin:0 auto;
+}
+
+.nav {
+	height: 122px;
+	background-color: white;
+}
+
+.home {
+	height: 681px;
+	background-color: blue;
+}
+
+.aboutus {
+	height: 1069px;
+	background-color: red;
+}
+
+.ourclients {
+	height: 1400px;
+	background-color: green;
+}
+
+.clientaccess {
+	height: 934px;
+	background-color: yellow;
+}
+
+.contact {
+	height: 830px;
+	background-color: purple;
+}
+
+.footer {
+	height: 206px;
+	background-color: pink;
+}
